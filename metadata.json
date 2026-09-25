@@ -1,0 +1,6 @@
+{
+  "name": "TRADELAB — Professional Trading Terminal & Notebook Education",
+  "description": "Professional mobile crypto trading terminal and handwritten notebook-style trading education app for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
